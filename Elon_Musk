@@ -1,0 +1,325 @@
+<200 OK OK,<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/2000/01/rdf-schema#label> "Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/wikiPageID> "909036"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/wikiPageRevisionID> "1065557473"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/wikiPageLength> "227291"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/abstract> "Elon Reeve Musk  (; born June 28, 1971) is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early-stage investor, CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around US$304 billion as of January 2022, Musk is the wealthiest person in the world. Musk was born to a Canadian mother and South African father, and raised in Pretoria, South Africa. He briefly attended the University of Pretoria before moving to Canada at age 17 to avoid conscription. He was enrolled at Queen's University and transferred to the University of Pennsylvania two years later, where he received a bachelor's degree in economics and physics, then moved to California in 1995 to attend Stanford University but decided instead to pursue a business career, co-founding the web software company Zip2 with his brother Kimbal. The startup was acquired by Compaq for $307 million in 1999. The same year, Musk co-founded online bank X.com, which merged with Confinity in 2000 to form PayPal. The company was bought by eBay in 2002 for $1.5 billion. In 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO and CTO. In 2004, he joined electric vehicle manufacturer Tesla Motors, Inc. (now Tesla, Inc.) as chairman and product architect, becoming its CEO in 2008. In 2006, he helped create SolarCity, a solar energy services company that was later acquired by Tesla and became Tesla Energy. In 2015, he co-founded OpenAI, a nonprofit research company that promotes friendly artificial intelligence. In 2016, he co-founded Neuralink, a neurotechnology company focused on developing brain–computer interfaces, and founded The Boring Company, a tunnel construction company. Musk has proposed the Hyperloop, a high-speed vactrain transportation system. Musk has been a subject of criticism because of his occasional unorthodox or unscientific stances and highly publicized controversial statements. In 2018, he was sued for defamation by a British caver who advised in the Tham Luang cave rescue; a California jury ruled in favor of Musk. In the same year, he was sued by the US Securities and Exchange Commission (SEC) for falsely tweeting that he had secured funding for a private takeover of Tesla. He settled with the SEC, temporarily stepping down from his chairmanship and agreed to limitations on his Twitter usage. Musk has spread misinformation about the COVID-19 pandemic and has received criticism from experts for his other views on such matters as artificial intelligence, cryptocurrency, and public transport."@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/2000/01/rdf-schema#comment> "Elon Reeve Musk  (; born June 28, 1971) is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early-stage investor, CEO, and Product Architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI. With an estimated net worth of around US$304 billion as of January 2022, Musk is the wealthiest person in the world."@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/Elon_Musk?oldid=1065557473&ns=0> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/wikiPageOutDegree> "456"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q24229398> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/birthDate> "1971-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/birthYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pretoria> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/personFunction> <http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PersonFunction> .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://dbpedia.org/ontology/title> "Co-founder ofNeuralink,OpenAI, andZip2"@en .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://dbpedia.org/ontology/title> ""@en .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://dbpedia.org/ontology/title> "Founder ofThe Boring CompanyandX.com(now part ofPayPal)"@en .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://dbpedia.org/ontology/title> "CEO and product architect ofTesla, Inc."@en .
+<http://dbpedia.org/resource/Elon_Musk__PersonFunction__1> <http://dbpedia.org/ontology/title> "Founder, CEO and Chief Engineer ofSpaceX"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/birthName> "Elon Reeve Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/University_of_Pennsylvania> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Bachelor_of_Arts> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> "Co-founder ofNeuralink,OpenAI, andZip2"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> ""@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> "Founder ofThe Boring CompanyandX.com(now part ofPayPal)"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> "CEO and product architect ofTesla, Inc."@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> "Founder, CEO and Chief Engineer ofSpaceX"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Talulah_Riley> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Justine_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Grimes_(musician)> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Lyndon_Rive> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Kimbal_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Tosca_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Criticism_of_Tesla> .
+<http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://dbpedia.org/resource/Inc.> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Elon_Musk> .
+<http://en.wikipedia.org/wiki/Elon_Musk> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Elon_Musk> .
+<http://en.wikipedia.org/wiki/Elon_Musk> <http://purl.org/dc/elements/1.1/language> "en" .
+<http://en.wikipedia.org/wiki/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Elon_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1971_births> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_American_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_Canadian_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_South_African_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:21st-century_American_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:21st-century_Canadian_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:21st-century_South_African_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Alumni_of_Pretoria_Boys_High_School> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_aerospace_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_automotive_pioneers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_billionaires> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_chairpersons_of_corporations> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_chief_executives_in_the_automobile_industry> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_chief_executives_of_energy_companies> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_chief_executives_of_manufacturing_companies> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_computer_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_computer_programmers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_corporate_directors> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_founders_of_automobile_manufacturers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_Internet_company_founders> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_nonprofit_executives> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_British_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Canadian_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_people_of_Pennsylvania_Dutch_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_philanthropists> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_software_engineers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_technology_chief_executives> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_technology_company_founders> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Automotive_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Businesspeople_in_software> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:California_Institute_of_Technology_trustees> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_automotive_pioneers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_billionaires> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_chairpersons_of_corporations> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_computer_businesspeople> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_computer_programmers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_corporate_directors> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_founders_of_automobile_manufacturers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_nonprofit_executives> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_people_of_British_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_people_of_South_African_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_philanthropists> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_software_engineers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_technology_chief_executives> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Canadian_technology_company_founders> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Chief_technology_officers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fellows_of_the_Royal_Society> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Giving_Pledgers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hyperloop> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Musk_family> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naturalized_citizens_of_Canada> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naturalized_citizens_of_the_United_States> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:PayPal_people> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_associated_with_solar_power> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Pretoria> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_in_the_space_industry> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_with_acquired_American_citizenship> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_with_Asperger_syndrome> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Aeronautical_Society_Gold_Medal_winners> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Science_fiction_fans> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_billionaires> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_chairpersons_of_corporations> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_chief_executives> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_company_founders> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_computer_programmers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_corporate_directors> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_emigrants_to_the_United_States> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_people_of_British_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_people_of_Canadian_descent> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:South_African_philanthropists> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Space_advocates> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:SpaceX_people> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sustainable_transport_pioneers> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tesla,_Inc.> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tesla,_Inc._people> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:The_Boring_Company> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Time_100> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Time_Person_of_the_Year> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wharton_School_of_the_University_of_Pennsylvania_alumni> .
+<http://dbpedia.org/resource/Elon_Musk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:White_South_African_people> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Short_description> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Good_article> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Pp-move-indef> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Pp-vandalism> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Use_American_English> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Use_mdy_dates> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_person> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Elon_Musk_series> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Postnominals> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:IPAc-en> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Nee> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Main> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:External_media> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Efn> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Asof> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Convert> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:See_also> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Further> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Tweet> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Blockquote> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:'> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Cite_book> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Wikimedia> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:C-SPAN> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:IMDb_name> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:TED_speaker> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Twitter> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Elon_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:SpaceX> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Tesla_Motors> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Navboxes> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Portal_bar> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Authority_control> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Post-nominals> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Birth_date_and_age> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:YouTube> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:PayPal_Mafia> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:FRS_2018> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Existential_risk_from_artificial_intelligence> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Transhumanism_footer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Time_Persons_of_the_Year_2001–2025> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.forbes.com/profile/elon-musk/> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/name> "Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/caption> "Musk at the Royal Society admissions day in London, 2018"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/birthName> "Elon Reeve Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/birthDate> "1971-06-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/birthPlace> "Pretoria, South Africa"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/citizenship> "United States"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/citizenship> "Canada"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/citizenship> "South Africa"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/citizenship> ""@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/education> "University of Pennsylvania"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> "Co-founder of Neuralink, OpenAI, and Zip2"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> "Founder of The Boring Company and X.com"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> "CEO and product architect of Tesla, Inc."@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> "Founder, CEO and Chief Engineer of SpaceX"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> ""@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> ""@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Talulah_Riley> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2008"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> "2000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Justine_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/partner> <http://dbpedia.org/resource/Grimes_(musician)> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/children> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/mother> <http://dbpedia.org/resource/Maye_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/father> "Errol Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/relatives> <http://dbpedia.org/resource/Lyndon_Rive> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/relatives> <http://dbpedia.org/resource/Kimbal_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/relatives> <http://dbpedia.org/resource/Tosca_Musk> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/relatives> ""@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/signature> "Elon Musk Signature.svg"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/signatureAlt> "Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/width> "210"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/float> "right"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/text> "Based on current trends, probably close to zero new cases in US too by end of April"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/username> "elonmusk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/date> "2020-03-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/id> "1240754657263144960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/width> "320"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/wikt> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/species> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/voy> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/d> "Q317521"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/c> "Category:Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/n> "Category:Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/s> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/b> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/property/title> "Articles related to Elon Musk"@en .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop2).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Signature.svg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Signature.svg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Signature.svg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:PBHS-facade.jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/PBHS-facade.jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:PBHS-facade.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:SpaceX_CEO_Elon_Musk_visits_N&NC_and_AFSPC_(190416-F-ZZ999-006)_(cropped).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk,_Tesla_Factory,_Fremont_(CA,_USA)_(8765031426).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11-tesla-shareholder-meeting-elon-musk.jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:2019-06-11-tesla-shareholder-meeting-elon-musk.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Pair_of_2009_SolarCity_Dodge_Sprinters.jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Pair_of_2009_SolarCity_Dodge_Sprinters.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_and_the_Neuralink_Future.jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_and_the_Neuralink_Future.jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_and_the_Neuralink_Future.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Accelerates_the_Boring_(45716125474).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Accelerates_the_Boring_(45716125474).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Rescue_equipment_in_Tham_Luang_entrance_chamber_(cropped).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_net_worth_graph.png> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_net_worth_graph.png?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_net_worth_graph.png> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Vice_President_Pence_at_the_Kennedy_Space_Center_(49946170631).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Prime_Minister_Narendra_Modi_with_Tesla_CEO_Elon_Musk.jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg> .
+<http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg> <http://xmlns.com/foaf/0.1/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg?width=300> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg?width=300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Image> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg> .
+<http://commons.wikimedia.org/wiki/Special:FilePath/Elon_Musk_Royal_Society_(crop1).jpg?width=300> <http://purl.org/dc/elements/1.1/rights> <http://en.wikipedia.org/wiki/File:Elon_Musk_Royal_Society_(crop1).jpg> .
+,[vary:"accept-encoding", Content-Type:"text/plain;charset=UTF-8", Content-Length:"53996", Date:"Sat, 03 Jun 2023 20:34:32 GMT"]>
